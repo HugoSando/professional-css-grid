@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.contenedor {
+    border: 5px solid rgb(188, 217, 255);
+    background-color: aliceblue;
+}
+
+.item {
+    border: 5px solid rgb(54, 64, 83);
+    font-size: 4rem;
+}
